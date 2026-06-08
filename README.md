@@ -6,8 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/b2f73cfc-a61a-43c7-9d1f-d3ed46b6490c
-
+View your app in :- https://monitoro-374186646904.asia-southeast1.run.app
 ## Run Locally
 
 **Prerequisites:**  Node.js
