@@ -1,0 +1,6 @@
+{
+  "name": "Monitoro",
+  "description": "An interactive full-stack log viewer and diagnostics dashboard using local text loading, real-time filtering, pattern anomalies charts, and server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
